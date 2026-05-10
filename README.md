@@ -10,7 +10,7 @@ Estou em transição de carreira para a para a área de dados com foco em desenv
 - 📚 Atualmente, estou aprendendo sobre tecnologias de Frontend e Backend.
 - 🎯 Metas: Aprender mais tecnologias - Criar websites com Dajango para unir o poder do Python e flexibilidade do Front-End
   
-- 📫 Social links
+### 📫 &nbsp; Redes sociais
 <p>
 	<a href="mailto:andresantana1988gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Andresilvasantanna"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -25,7 +25,7 @@ Estou em transição de carreira para a para a área de dados com foco em desenv
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
 
 
-#### 🔧 Ferramentas
+#### 🔧 &nbsp;Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
