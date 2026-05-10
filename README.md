@@ -7,8 +7,7 @@
 Estou em transição de carreira para a para a área de dados com foco em desenvolvimento web
 </p>
 
-- 👨‍💻 Atualmente não estou trabalhando
-- 📚 I’m currently learning about Frontend and Backend technologies.
+- 📚 Atualmente, estou aprendendo sobre tecnologias de Frontend e Backend.
 - 🎯 Metas: Aprender mais tecnologias - Criar websites com Dajango para unir o poder do Python e flexibilidade do Front-End
   
 - 📫 Social links
@@ -23,19 +22,15 @@ Estou em transição de carreira para a para a área de dados com foco em desenv
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### 🔧 Tools
+
+#### 🔧 Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresilvasantanna&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=Andresilvasantanna&style=for-the-badge">
+<!--<a href="https://komarev.com/ghpvc/?username=Andresilvasantanna&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Andresilvasantanna&style=for-the-badge">
-</a>
+</a>-->
